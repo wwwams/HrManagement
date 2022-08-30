@@ -5,6 +5,6 @@ public class Experience
     public string Description { get; set; }
     public string Company { get; set; }
     public string Phone { get; set; }
-    public int Employee { get; set; }
+    public int EmployeeId { get; set; }
 
 }
